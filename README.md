@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3 style="text-align: center;">Check out my 
-    <a href = "https://yourusername.github.io/repositoryname/projects">projects 
+    <a href = "https://colinro1.github.io/colinro1/projects">projects 
     </a> 
   </h3>
 </div>
