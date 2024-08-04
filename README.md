@@ -24,7 +24,7 @@
 
 ---
 
-### Who am I... :thinking:
+### Who am I... 🤔
 
 - ⚙️ Mechanical Engineering student at San Diego State University - Graduating Spring 2025.
 - 🧪 Currently operating in aerospace test/manufacturing, contributing to process improvement and documentation.
