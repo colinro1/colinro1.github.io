@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3 style="text-align: center;">Check out my 
-    <a href = "SiPM Test Bench.pdf">projects 
+    <a href = "https://yourusername.github.io/repositoryname/projects">projects 
     </a> 
   </h3>
 </div>
