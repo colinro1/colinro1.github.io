@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3 style="text-align: center;">Check out my 
-    <a href = "file:///Users/colinro/Downloads/SiPM%20Test%20Bench.pdf">projects 
+    <a href = "SiPM Test Bench.pdf">projects 
     </a> 
   </h3>
 </div>
