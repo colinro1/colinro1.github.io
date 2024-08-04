@@ -19,6 +19,13 @@
 </div>
 
 <div align="center">
+  <h3 style="text-align: center;">Check out my 
+    <a href = "https://roslovets.github.io/projects">projects 
+    </a> 
+  </h3>
+</div>
+
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzMXV0ZmowcWNxOXRmYnl3cHUxb3RsejB2bmg0dzVhemV2dGw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="600" height="300"/>
 </div>
 
