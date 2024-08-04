@@ -37,6 +37,3 @@
 - 🧪 Currently operating in aerospace test/manufacturing, contributing to process improvement and documentation.
 - 📖 In my freetime, I enjoy learning about engineering fundamentals, keeping up with modern tech, and leisure reading.
 
-[![Colin GitHub stats](https://github-readme-stats.vercel.app/api?username=colinro1)](https://github.com/colinro1/github-readme-stats)
-
-
