@@ -1,6 +1,6 @@
 <div align="center">
   <h3 style="text-align: center;">Navigate 
-    <a href = "https://colinro1.github.io/">home 
+    <a href = "https://colinro1.github.io/">Home 
     </a> 
   </h3>
 </div>
