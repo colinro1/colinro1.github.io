@@ -1,4 +1,8 @@
-### Hello brother ☝️
+### what's up 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 I'm Colin and I'm from San Jose, CA. I am a mechanical engineering student at San Diego State University, graduating in Spring 2025. I really enjoy computer-aided design, especially in SolidWorks, Creo, and OnShape. I'm also interested learning about general engineering fundamentals, electro-mechanical instruments, and keeping up with modern technology. Check out my LinkedIn profile at www.linkedin.com/in/colinro.
 
