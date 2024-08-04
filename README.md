@@ -20,7 +20,7 @@
 
 <div align="center">
   <h3 style="text-align: center;">Check out my 
-    <a href = "https://roslovets.github.io/projects">projects 
+    <a href = "https://colinro1.github.io/projects">projects 
     </a> 
   </h3>
 </div>
