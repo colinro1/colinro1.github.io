@@ -8,6 +8,6 @@
 # My Projects
 
 <h3 style="text-align: center;">
-    <a href = "https://colinro1.github.io/">Smartphone-Integrated Paper-Based Microfluidic (SiPM) Platform
+    <a href = "SiPM Test Bench.pdf">Smartphone-Integrated Paper-Based Microfluidic (SiPM) Platform
     </a> 
   </h3>
